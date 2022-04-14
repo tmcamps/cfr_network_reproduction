@@ -1,4 +1,4 @@
-#Counterfactual Regression (CFR) nueral network reconstruction 
+**Counterfactual Regression (CFR) nueral network reconstruction**
 
 This code aims to reconstruct the counterfactual regression neural network by F. Johansson, U. Shalit and D. Sontag: 
 https://arxiv.org/abs/1606.03976. The network is implemented using Pytorch Library and tested on the IHDP dataset. Testing
